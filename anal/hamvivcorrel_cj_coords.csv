@@ -1,0 +1,12 @@
+num,label,count,mean,median,max,coords
+62,"Precuneous Cortex, right part",135,17412.7190394,17015.9042969,19694.2539062,[ 17.5 -65.5  23. ]
+64,"Cuneal Cortex, right part",31,17887.6179435,17859.0371094,19738.3496094,[ 17.5 -68.   23. ]
+2,"Frontal Pole, right part",9,16598.305447,16623.2871094,17187.8671875,[ 45.  47.   3.]
+94,"Supracalcarine Cortex, right part",9,16843.2944878,16663.0351562,18160.1503906,[ 22.5 -65.5  20.5]
+61,"Precuneous Cortex, left part",6,16360.2058919,16301.6044922,16677.6835938,[ -5. -58.  23.]
+60,"Cingulate Gyrus, posterior division, right part",4,16589.3261719,16565.1757812,16733.8300781,[ 15.  -50.5   5.5]
+32,"Inferior Temporal Gyrus, temporooccipital part, right part",3,16410.2154948,16328.4941406,16665.515625,[ 47.5 -40.5 -22. ]
+30,"Inferior Temporal Gyrus, posterior division, right part",2,16818.7089844,16818.7089844,16903.90625,[ 47.5 -38.  -22. ]
+48,"Intracalcarine Cortex, right part",1,16519.84375,16519.84375,16519.84375,[ 25. -63.   8.]
+72,"Lingual Gyrus, right part",1,16627.2167969,16627.2167969,16627.2167969,[ 15. -58.   3.]
+76,"Temporal Fusiform Cortex, posterior division, right part",1,16502.5449219,16502.5449219,16502.5449219,[ 45. -38. -22.]
